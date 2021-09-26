@@ -13,10 +13,10 @@ const Header = () => {
             </div>
             <div>
                 <ul className="nav">
-                    <a href="/business">Business</a>
-                    <a href="/catagory">Catagory</a>
                     <a href="/home">Home</a>
+                    <a href="/business">Business</a>
                     <a href="/blog">Blog</a>
+                    <a href="/catagory">Catagory</a>
                 </ul>
             </div>
         </div>
