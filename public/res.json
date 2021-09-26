@@ -1,0 +1,110 @@
+[
+    {
+    "key": "amazon",
+    "name": "Jeff Bezos",
+    "company": "Amazon",
+    "networth": 200.5,
+    "img": "https://api-img-richest.netlify.app/rsz_jeff-bozzes.png",
+    "age": "57",
+    "title": "Founder and Executive Chairman of Amazon"
+    },
+    {
+    "key": "tesla",
+    "name":"Elon Musk",
+    "company": "Tesla, Space X",
+    "networth": 156.3,
+    "img": "https://api-img-richest.netlify.app/rsz_elon-musk.png",
+    "age": "50",
+    "title": "Founder, CEO and Chief Engineer of SpaceX"
+    },
+    {
+    "key": "microsoft",
+    "name": "Bill Gates",
+    "company": "Microsoft",
+    "networth": 125.4,
+    "img": "https://api-img-richest.netlify.app/rsz_bill_gates.png",
+    "age": "57",
+    "title": "Technology advisor of Microsoft"
+    },
+    {
+    "key": "facebook",
+    "name": "Mark Zuckerberg",
+    "company": "Facebook",
+    "networth": 119.5,
+    "img": "https://api-img-richest.netlify.app/rsz_mark-zuckerberg.png",
+    "age": "37",
+    "title": "Co-founder and CEO of Facebook"
+    },
+    {
+    "key": "google",
+    "name": "Larry Page",
+    "company": "Goole.Inc",
+    "networth": 105.6,
+    "img": "https://api-img-richest.netlify.app/rsz_larry-page.png",
+    "age": "48",
+    "title": "Co-founding Google."
+    },
+    {
+    "key": "cto",
+    "name": "Larry Ellison",
+    "company": "Cto",
+    "networth": 99.9,
+    "img": "https://api-img-richest.netlify.app/rsz_1larry-ellison.png",
+    "age": 77,
+    "title": "Co-founder, executive chairman and CTO"
+    },
+    {
+    "key": "berkshirehathaway",
+    "name": "Warren Buffett",
+    "company": "Berkshirehathaway",
+    "networth": 104.3,
+    "img": "https://api-img-richest.netlify.app/rsz_warren-buffett.png",
+    "age":91,
+    "title": "Founder and Executive Chairman of Amazon"
+    },
+    {
+    "key": "alphabet",
+    "name": "Sergey Brin",
+    "company": "Alphabet Inc",
+    "networth": 102.3,
+    "img": "https://api-img-richest.netlify.app/rsz_sergey-brin.png",
+    "age": "48",
+    "title": "Co-founding Alphabet Inc."
+    },
+    {
+    "key": "ril",
+    "name": "Mukesh Ambani",
+    "company": "Reliance Industries Limited (RIL)",
+    "networth": 85.8,
+    "img": "https://api-img-richest.netlify.app/rsz_mukesh-ambani.png",
+    "age": "64",
+    "title": "Chairman and MD, Reliance Industries"
+    },
+    {
+    "key": "inditex",
+    "name": "Amancio Ortega",
+    "company": "Inditex Group",
+    "networth": 82.7,
+    "img": "https://api-img-richest.netlify.app/rsz_amancio-ortega.png",
+    "age": "85",
+    "title": "Co-founder of Inditex Group"
+    },
+    {
+    "key": "nongfu",
+    "name": "Zhong Shanshan",
+    "company": "Nongfu Spring",
+    "networth": 69.2,
+    "img": "https://api-img-richest.netlify.app/rsz_zhong-shanshan.png",
+    "age": "67",
+    "title": "Founder, Nongfu Spring"
+    },
+    {
+    "key": "telmex",
+    "name": "Carlos Slim",
+    "company": "Telmex",
+    "networth": 69.7,
+    "img": "https://api-img-richest.netlify.app/rsz_carlos-slim.png",
+    "age": "81",
+    "title": "CEO of Telmex, América Móvil, and Grupo Carso"
+    }
+]
