@@ -21,7 +21,7 @@ const Persons = () => {
         <div className="person-container row d-flex">
             <div className="d-flex">
                 <div className="person row col-9">
-                    <h3>World Most {persons.length} Richest Persons:</h3>
+                    <h3 className="py-3 bg-warning" >World Most {persons.length} Richest Persons</h3>
                     {
                         persons.map(person => <Person key={person.key} person={person} handleAddNewPerson={handleAddNewPerson}></Person> )
                     }
