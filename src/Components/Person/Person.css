@@ -1,5 +1,6 @@
 .parent{
     background-color: antiquewhite;
+    cursor: pointer;
     border: 1px solid gray;
     margin-left: 10px;
     margin-bottom: 20px;

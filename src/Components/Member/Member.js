@@ -8,10 +8,18 @@ const Member = (props) => {
         total = total + person.networth;
     }
     return (
-        <div>
+        <div className="sort">
             <h3>Clickd Members: {props.member.length}</h3>
             <h3>Member total amount: ${total}<span>M</span></h3>
+            <div>
+                <ul>
+                    {
+                        member.map(name =><p> Name: {name.name} </p>)
+                    }
+                </ul>
+            </div>
         </div>
+        
     );
 };
 
