@@ -3,7 +3,7 @@ import './Footer.css'
 
 const Footer = () => {
     return (
-        <div>
+        <div className="mt-3">
             &copy; Richest Blog
         </div>
     );

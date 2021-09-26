@@ -9,8 +9,10 @@ const Member = (props) => {
     }
     return (
         <div className="sort">
-            <h3>Clickd Members: {props.member.length}</h3>
-            <h3>Member total amount: ${total}<span>M</span></h3>
+            <h2>Member Details</h2><hr className="py-1" />
+            
+            <h4>Clickd Members: {props.member.length}</h4>
+            <h4>Member total amount: ${total}<span>M</span></h4>
             <div>
                 <ul>
                     {

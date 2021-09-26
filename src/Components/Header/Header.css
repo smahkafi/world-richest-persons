@@ -1,0 +1,27 @@
+.header{
+    background-color: #bbe2eb;
+}
+.nav{
+    background-color: antiquewhite;
+    padding: 10px 0;
+    line-height: 20px;
+    justify-content: center;
+}
+.nav a{
+    text-align: center;
+    margin-left: 20px;
+    padding: 10px 0;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+.nav a:hover{
+    margin-left: 20px;
+    font-size: 20px;
+    text-decoration: none;
+    background-color: #C0D39C;
+    padding: 10px 0;
+    color: red;
+    border-radius: 5px;
+}
