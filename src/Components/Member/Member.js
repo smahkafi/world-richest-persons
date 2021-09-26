@@ -9,8 +9,8 @@ const Member = (props) => {
     }
     return (
         <div>
-            <h3>Added: {props.member.length}</h3>
-            <h3>Member amount: ${total}</h3>
+            <h3>Clickd Members: {props.member.length}</h3>
+            <h3>Member total amount: ${total}<span>M</span></h3>
         </div>
     );
 };

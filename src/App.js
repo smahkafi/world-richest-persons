@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <Header></Header>
       <Persons></Persons>
-      <Footer></Footer>
+      <Footer className="mt-5"></Footer>
     </div>
   );
 }

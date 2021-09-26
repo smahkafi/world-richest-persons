@@ -15,7 +15,7 @@ const Person = (props) => {
                     <p className="card-text"><span>Net Worth: </span>{networth}</p>
                     <p className="card-text"><span>Title: </span>{title}</p>
                     <p className="card-text"><span>Age: </span>{age}</p>
-                    <button className="rounded-pill" onClick={() => {props.handleAddNewPerson(props.person)}}>See Person</button>
+                    <button className="rounded-pill btn-primary" onClick={() => {props.handleAddNewPerson(props.person)}}>See Person</button>
                 </div>
             </div>
         </div>

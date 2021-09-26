@@ -8,7 +8,7 @@ const Header = () => {
             <h6>
             Wealthiest individuals in the technology industry worldwide as of March 2021, by net worth
             </h6>
-            <h6>Richest person in the global tech industry with an estimated net worth of <span className="text-danger fw-bold">1321.2</span> billion U.S. dollars.</h6>
+            <h6>Richest person in the global tech industry with an estimated net worth of <span className="text-danger fw-bold">1321.2</span> million U.S. dollars.</h6>
         </div>
     );
 };
