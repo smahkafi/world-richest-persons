@@ -6,7 +6,7 @@ import './Person.css'
 const Person = (props) => {
     const {name, company, networth, img, title, age} = props.person
     return (
-        <div className="col-4">
+        <div className="col-sm-12 col-md-6 col-lg-4">
             <div className="parent card card-person" style={{width: "18rem;"}}>
                 <div classNameName="img">
                         <img src={img} className="card-img-top rounded-circle" alt="..."/>

@@ -1,9 +1,9 @@
 import React from 'react';
-import './Header.css'
+import './Header.css';
 
 const Header = () => {
     return (
-        <div className="">
+        <div className="container">
             <div className="header py-3">
                 <h2 className="mb-3">Richest person in the global tech industry</h2>
                 <h6>
@@ -16,7 +16,7 @@ const Header = () => {
                     <a href="/home">Home</a>
                     <a href="/business">Business</a>
                     <a href="/blog">Blog</a>
-                    <a href="/catagory">Catagory</a>
+                    <a href="/category">Category</a>
                 </ul>
             </div>
         </div>
